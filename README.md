@@ -1,2 +1,1 @@
-# stone
-石造物LOD
+# 石造物LOD
