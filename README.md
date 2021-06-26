@@ -2,6 +2,10 @@
 
 石造物の構造化データを[ウィキデータ](https://www.wikidata.org/)に入力する際に使用するプロパティや項目について説明します。
 
+※ 最新版は[https://www.wikidata.org/wiki/User:Takashi.koike/石造物オントロジー](https://www.wikidata.org/wiki/User:Takashi.koike/石造物オントロジー)をご覧下さい。
+
+
+
 ### 主な情報
 | プロパティ | 説明 | 値の例 | 備考 |
 | --- | --- | --- | --- |
